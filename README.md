@@ -2,7 +2,7 @@
 NeRF_Test Ver(0.01)<br>
 단일 장면에 대한 신경 표현을 최적화하고 새 보기를 렌더링하는 Tensorflow 구현입니다.<br>
 <br>
-- Python - <br>
+- Python  <br>
 Tensorflow 1.15 <br>
 matplotlib <br>
 numpy <br> 
