@@ -1,20 +1,16 @@
-# NeRF_2DTo3D<br>
-NeRF_Test Ver(0.01)<br>
-단일 장면에 대한 신경 표현을 최적화하고 새 보기를 렌더링하는 Tensorflow 구현입니다.<br>
-<br>
-- Python  <br>
-Tensorflow 1.15 <br>
-matplotlib <br>
-numpy <br> 
-imageio <br>
-configargparse <br>
-<br>
-TL;DR QuickStart <br>
-conda env create -f environment.yml <br>
-conda activate nerf <br>
-bash download_example_data.sh <br>
-python run_nerf.py --config config_fern.txt <br>
-tensorboard --logdir=logs/summaries --port=6006 <br>
-<br>
-NeRF 최적화 <br>
-bash download_example_data.sh <br>
+# NeRF / (IMG or 2D) File To 3D
+
+(IMG, 2D)의 파일 등을 3D Obj 파일 형태로 추출하기 위한 프로젝트
+
+```
+NeRF 0.01ver
+```
+2D 이미지 모델학습 후 360View 3D 파일 추출 성공 후 OBJ 파일 저장
+
+
+## 시작하기 <br>
+
+- 환경 설정
+```
+NeRF 0.01ver
+```
