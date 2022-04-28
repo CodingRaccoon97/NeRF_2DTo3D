@@ -12,5 +12,11 @@ NeRF 0.01ver
 
 - 환경 설정
 ```
-NeRF 0.01ver
+Python 3 dependencies:
+
+Tensorflow 1.15
+matplotlib
+numpy
+imageio
+configargparse
 ```
